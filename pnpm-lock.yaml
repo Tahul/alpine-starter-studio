@@ -1,11 +1,11 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@nuxt-themes/alpine': ^1.5.2
+  '@nuxt-themes/alpine': ^1.5.3
   nuxt: 3.3.1
 
 devDependencies:
-  '@nuxt-themes/alpine': 1.5.2
+  '@nuxt-themes/alpine': 1.5.3
   nuxt: 3.3.1
 
 packages:
@@ -850,8 +850,8 @@ packages:
       fastq: 1.15.0
     dev: true
 
-  /@nuxt-themes/alpine/1.5.2:
-    resolution: {integrity: sha512-RD89ZkEJGEY/v8CwTH4AzmOeBloj7ep7kEfveyLUiM0WvCEYCnEdzM35OfsLk0IpwQyrF50fvqAf3Xg7nCWN4w==}
+  /@nuxt-themes/alpine/1.5.3:
+    resolution: {integrity: sha512-G52Ces3vsNlpm2rjJvGIvcuU8kvgzmtBCY4c2hZ9jtuHCDaiKjMr8ntrmz/74epvu1x9BPZ9eLZMwlBByPFR2Q==}
     dependencies:
       '@nuxt-themes/elements': 0.9.4
       '@nuxt-themes/tokens': 1.9.1
